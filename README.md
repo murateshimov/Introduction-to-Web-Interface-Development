@@ -15,4 +15,4 @@ Create your first HTML file with the correct structure. Use at least these tags:
 * small
 * big
 
-
+![Assigment-1](images/my_image.png)
