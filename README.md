@@ -1,5 +1,5 @@
 # Introduction-to-Web-Interface-Development
-Assignment #1
+## Assignment #1
 Create your first HTML file with the correct structure. Use at least these tags:
 
 * title
