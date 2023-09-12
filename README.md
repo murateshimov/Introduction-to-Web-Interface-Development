@@ -30,7 +30,7 @@ To see the code "Assignment-2"click here (https://github.com/murateshimov/Introd
 ## Assignment #3
 Style webpage Todo 1-3 from the presentation "Getting Started With The Web - Part 3"
 
-![assignment-3](Assigment-3/img/screenshot.png?raw=true)
+![assignment-3](https://github.com/murateshimov/Introduction-to-Web-Interface-Development/blob/master/Assigment-3/img/screenshot.png?raw=true)
 
 To see the code "Assignment-3"click here (https://github.com/murateshimov/Introduction-to-Web-Interface-Development/blob/master/Assigment-3/index.html)
 
