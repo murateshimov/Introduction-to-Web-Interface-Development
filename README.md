@@ -27,5 +27,7 @@ https://github.com/murateshimov/Introduction-to-Web-Interface-Development/assets
 
 To see the code click here (https://github.com/murateshimov/Introduction-to-Web-Interface-Development/blob/master/Assigment-2/index.html)
 
+## Assignment #3
+Style webpage Todo 1-3 from the presentation "Getting Started With The Web - Part 3"
 
 
