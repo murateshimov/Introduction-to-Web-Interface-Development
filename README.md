@@ -15,7 +15,7 @@ Create your first HTML file with the correct structure. Use at least these tags:
 * small
 * big
 
-Assignment-1 link to code [here] (https://github.com/murateshimov/Introduction-to-Web-Interface-Development/tree/master/Assigment-1)
+To see the code click [here] (https://github.com/murateshimov/Introduction-to-Web-Interface-Development/tree/master/Assigment-1?raw=true)
 ![assigment-1](Assigment-1/img/assigment-1.png?raw=true)
 
 
