@@ -15,4 +15,4 @@ Create your first HTML file with the correct structure. Use at least these tags:
 * small
 * big
 
-![assigment-1](Assigment-1/img/assigment-1.png)
+![assigment-1](Assigment-1/img/assigment-1.png?raw=true)
