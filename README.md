@@ -22,3 +22,5 @@ To see the code click here (https://github.com/murateshimov/Introduction-to-Web-
 
 ## Assignment #2
 Create a webpage from the lecture Todo 1-2
+[Screenrecording](Assigment-2/img/screenrecording.mp4)
+
