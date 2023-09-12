@@ -1,6 +1,6 @@
 # Introduction-to-Web-Interface-Development
 Assignment #1
-Create your first HTML file with the correct structure. And use at least these tags:
+Create your first HTML file with the correct structure. Use at least these tags:
 
 title
 meta
