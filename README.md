@@ -22,6 +22,7 @@ To see the code click here (https://github.com/murateshimov/Introduction-to-Web-
 
 ## Assignment #2
 Create a webpage from the lecture Todo 1-2
+
 https://github.com/murateshimov/Introduction-to-Web-Interface-Development/assets/57397667/f92c64fd-afc3-4eef-8320-de7b0bb442f6
 
 
