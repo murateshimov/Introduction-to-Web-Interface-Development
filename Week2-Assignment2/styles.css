@@ -26,8 +26,25 @@ h1 {
     padding: 20px 0;
     color: #00539f;
     text-shadow: 3px 3px 1px black;
-  }
+}
+
+h2 {
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
   
   p, ul {
     font-size: 16px; 
-  }
+}
+
+img[src="img/cat.jpg"] {
+    max-width: 350px;
+    max-height: 200px;
+    width: auto;
+    height: auto; 
+}
+
+button {
+    margin-top: 10px;
+    margin-bottom: -5px;
+}
