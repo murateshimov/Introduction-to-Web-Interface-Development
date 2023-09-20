@@ -47,3 +47,15 @@ Requirements:
 ![Week-2 Assignment2](https://github.com/murateshimov/Introduction-to-Web-Interface-Development/blob/master/Week2-Assignment2/img/screenshot.png)
 
 To see the code "Week-2 Assignment2" [click here](https://github.com/murateshimov/Introduction-to-Web-Interface-Development/tree/master/Week2-Assignment2)
+
+## Week-2 Assignment-3
+
+Requirements:
+
+Upload to GitHub Pages and submit the link. (link must be start like https://[username].github.io )
+
+![Week-2 Assignment3](https://github.com/murateshimov/Introduction-to-Web-Interface-Development/blob/master/Week2-Assignment3/img/Screenshot%202023-09-17%20at%2015.09.13.png)
+
+To see the code "Week-2 Assignment3" [click here](https://github.com/murateshimov/Introduction-to-Web-Interface-Development/tree/master/Week2-Assignment3)
+
+To see the GitHub Page [click here](https://murateshimov.github.io/about-me-page/)
