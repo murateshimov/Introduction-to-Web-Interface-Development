@@ -1,0 +1,20 @@
+table {
+  border-collapse: collapse;
+  text-align: center;
+}
+td,th {
+  border: 2px solid black;
+  padding: 1em;
+}
+
+th {
+    background-color: #c0c0c0;
+}
+
+.first-row  td {
+    background-color: lightgrey;
+}
+
+.second-row  td {
+    background-color: lightgrey;
+}
