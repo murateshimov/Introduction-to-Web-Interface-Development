@@ -1,0 +1,13 @@
+.container{
+    margin: 0 auto;
+  }
+  h1{
+    border: 2px solid blue;
+    text-align:center;
+    color: blue;
+  }
+  img{
+    width: 200px;
+    height: 200px;
+  }
+  
