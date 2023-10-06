@@ -113,3 +113,16 @@ Requirements:
 ![Week-4 Assignment2](https://github.com/murateshimov/Introduction-to-Web-Interface-Development/blob/master/Week4-Assignment2/img/Screenshot%202023-10-06%20at%2021.42.16.png)
 
 To see the code "Week-4 Assignment2" [click here](https://github.com/murateshimov/Introduction-to-Web-Interface-Development/tree/master/Week4-Assignment2)
+
+
+## Week-4 Assignment3
+
+Requirements: 
+
+* In a cell of tables, you can put any block, and also photos.
+
+* Create an HTML document with a table that contains PC properties with some info and photos.
+
+![Week-4 Assignment3](https://github.com/murateshimov/Introduction-to-Web-Interface-Development/blob/master/week4-Assignment3/img/Screenshot%202023-10-06%20at%2021.47.28.png)
+
+To see the code "Week-4 Assignment2" [click here](https://github.com/murateshimov/Introduction-to-Web-Interface-Development/tree/master/Week4-Assignment3)
