@@ -1,36 +1,64 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>alatoo</title>
-</head>
-<body>
-  <div class="container">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AIU</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
     <header>
-      <nav><img srcset="alatoo-100px.png 500w, alatoo-200px.png 200w, alatoo-logo.png 450w"
-        sizes="(max-width: 500px) 150px, (max-width: 1000px) 180px, (max-width: 2000px) 300px" src="img/alatoo-logo.png" alt="logo"></nav>
+      <img src="img/alatoo-logo.png" alt="Alatoo Logo" id="logo" />
+      <nav>
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Services</a></li>
+          <li><a href="contact">Contact</a></li>
+        </ul>
+      </nav>
     </header>
+
     <main>
-      <p>AlaToo International University</p>
-      <img style="text-align: center"; srcset="bars.png 2000w" sizes="(max-width: 1000px) 700px" src="img/bars.png" alt="bars">
       <section>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/RKTKv5TSfXM?si=Bhk6RE03p-sLG9rh" title="YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <h1>Ala-Too International University</h1>
+        <img
+          class="bars"
+          style="text-align: center"
+          ;
+          sizes="(max-width: 1000px) 700px"
+          src="img/bars.png"
+          alt="bars"
+        />
       </section>
-      <section class="contacts">
-        <h3>Our contacts</h3>
-        <address>
-          <ul>
-            <li>st.Ankara</li>
-            <li>Tel: +99677777777</li>
-            <li>Email: <a href="mailto:info@alatoo.edu.lg">info@alatoo.edu.kg</a></li>
-            <li><img alt="MapMap" src="http://alatoo.edu.kg/image?img=image_karta_8016442713758413155.png" style="border-style:solid; border-width:1px; float:left; height:244px; width:310px"></li>
-          </ul>
-        </address>
+      <section>
+        <iframe
+          width="560"
+          height="315"
+          src="https://www.youtube.com/embed/RKTKv5TSfXM?si=Bhk6RE03p-sLG9rh"
+          title="YouTube video player"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen
+        ></iframe>
       </section>
     </main>
-    <footer></footer>
-  </div>
-</body>
+
+    <section id="contact">
+      <h2>Contact Us</h2>
+      <p>Here is our location on Google Maps:</p>
+      <iframe
+        src="http://alatoo.edu.kg/image?img=image_karta_8016442713758413155.png"
+        width="300"
+        height="300"
+        style="border: 0"
+        allowfullscreen=""
+        loading="lazy"
+      ></iframe>
+    </section>
+
+    <footer>
+      <p>&copy; Ala-Too International University</p>
+    </footer>
+  </body>
 </html>
