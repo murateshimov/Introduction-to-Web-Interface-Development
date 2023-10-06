@@ -100,3 +100,16 @@ Requirements:
 ![Week-4 Assignment1](https://github.com/murateshimov/Introduction-to-Web-Interface-Development/blob/master/Week4-Assignment1/img/dog%20table.png)
 
 To see the code "Week-4 Assignment1" [click here](https://github.com/murateshimov/Introduction-to-Web-Interface-Development/tree/master/Week4-Assignment1)
+
+
+## Week-4 Assignment2
+
+Requirements: 
+
+* Search about <colgroup> and <cal> tags in HTML in Google.
+
+* Make table "Planetary Fact Sheet - Metric" the same as in the last slide of  HTML-Structuring the web - Part 3File Todo 2-4
+
+![Week-4 Assignment2](https://github.com/murateshimov/Introduction-to-Web-Interface-Development/blob/master/Week4-Assignment1/img/dog%20table.png)
+
+To see the code "Week-4 Assignment1" [click here](https://github.com/murateshimov/Introduction-to-Web-Interface-Development/tree/master/Week4-Assignment1)
