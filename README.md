@@ -112,4 +112,4 @@ Requirements:
 
 ![Week-4 Assignment2](https://github.com/murateshimov/Introduction-to-Web-Interface-Development/blob/master/Week4-Assignment2/img/Screenshot%202023-10-06%20at%2021.42.16.png)
 
-To see the code "Week-4 Assignment1" [click here](https://github.com/murateshimov/Introduction-to-Web-Interface-Development/tree/master/Week4-Assignment2)
+To see the code "Week-4 Assignment2" [click here](https://github.com/murateshimov/Introduction-to-Web-Interface-Development/tree/master/Week4-Assignment2)
