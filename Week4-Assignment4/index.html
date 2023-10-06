@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Value Functions</title>
+    <style>
+        .function-block {
+            width: 100px;
+            height: 100px;
+            border: 2px solid #333;
+            background-color: #f0f0f0;
+            margin: 10px;
+            display: inline-block;
+            text-align: center;
+            line-height: 100px;
+            font-weight: bold;
+            font-size: 16px;
+        }
+
+        /* Transform Functions */
+        .rotate {
+            transform: rotate(45deg);
+        }
+
+        .scale {
+            transform: scale(1.5);
+        }
+
+        .translate {
+            transform: translate(50px, 20px);
+        }
+
+        .skew {
+            transform: skew(30deg, 20deg);
+        }
+
+        /* Math Functions */
+        .calc {
+            width: calc(100px + 20px);
+            height: calc(100px + 20px);
+            background-color: #ff5733;
+        }
+
+        .min {
+            width: min(150px, 200px);
+            height: min(150px, 200px);
+            background-color: #33ff57;
+        }
+
+        .max {
+            width: max(150px, 200px);
+            height: max(150px, 200px);
+            background-color: #5733ff;
+        }
+    </style>
+</head>
+<body>
+    <h1>CSS Value Functions</h1>
+
+    <div class="function-block rotate">Rotate</div>
+    <div class="function-block scale">Scale</div>
+    <div class="function-block translate">Translate</div>
+    <div class="function-block skew">Skew</div>
+
+    <div class="function-block calc">Calc</div>
+    <div class="function-block min">Min</div>
+    <div class="function-block max">Max</div>
+</body>
+</html>
