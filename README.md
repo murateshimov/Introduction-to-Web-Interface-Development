@@ -89,3 +89,14 @@ Requirements:
 ![Week-3 Assignment2](https://github.com/murateshimov/Introduction-to-Web-Interface-Development/blob/master/Week3-Assignment2/img/Screenshot%202023-10-06%20at%2018.36.02.png)
 
 To see the code "Week-3 Assignment2" [click here](https://github.com/murateshimov/Introduction-to-Web-Interface-Development/tree/master/Week3-Assignment2)
+
+
+## Week-4 Assignment1
+
+Requirements: 
+
+* Recreate table from Presentation (Dog Table)
+
+![Week-4 Assignment1](https://github.com/murateshimov/Introduction-to-Web-Interface-Development/blob/master/Week3-Assignment2/img/Screenshot%202023-10-06%20at%2018.36.02.png)
+
+To see the code "Week-4 Assignment1" [click here](https://github.com/murateshimov/Introduction-to-Web-Interface-Development/tree/master/Week4-Assignment1)
