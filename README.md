@@ -73,3 +73,15 @@ Requirements:
 ![Week-3 Assignment1](https://github.com/murateshimov/Introduction-to-Web-Interface-Development/blob/master/Week3-Assignment1/img/Screenshot%202023-09-19%20at%2014.33.05.png)
 
 To see the code "Week-3 Assignment1" [click here](https://github.com/murateshimov/Introduction-to-Web-Interface-Development/tree/master/Week3-Assignment1)
+
+
+## Week-3 Assignment2
+
+Requirements: 
+
+* Create the webpage with proper structure (using <header>, <footer>, <main>, etc., elements).
+* Download the file 'alatoo-logo.png' and make it smaller for smaller screens with any photo editor or online tools.
+* Add the logo to your header of the page so it should load adequately depending on screen size.
+* Download the file snow-leopard-landscape.jpg and crop a 900px width portrait version that shows the snow leopard, using any photo editor or online tools.
+* Add the snow leopard photo to your webpage content, so it should load the cropped one if the screen size is less than 1000px.
+* Embed the YouTube video to your webpage.
