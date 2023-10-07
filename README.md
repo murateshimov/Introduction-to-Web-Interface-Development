@@ -1,6 +1,6 @@
 # Introduction-to-Web-Interface-Development
 
-## Week-1 Assignment-1
+## Week 1 Assignment 1
 
 Create your first HTML file with the correct structure. Use at least these tags:
 
@@ -17,27 +17,27 @@ Create your first HTML file with the correct structure. Use at least these tags:
 - small
 - big
 
-![Week-1 Assignment-1](Week1-Assignment1/img/assigment-1.png?raw=true)
+![Week 1 Assignment 1](Week1-Assignment1/img/assigment-1.png?raw=true)
 
-To see the code "Week-1 Assignment-1" [click here](https://github.com/murateshimov/Introduction-to-Web-Interface-Development/tree/master/Week1-Assignment1)
+To see the code "Week 1 Assignment 1" [click here](https://github.com/murateshimov/Introduction-to-Web-Interface-Development/tree/master/Week1-Assignment1)
 
-## Week-1 Assignment-2
+## Week 1 Assignment 2
 
 Create a webpage from the lecture Todo 1-2
 
 https://github.com/murateshimov/Introduction-to-Web-Interface-Development/assets/57397667/f92c64fd-afc3-4eef-8320-de7b0bb442f6
 
-To see the code "Week-1 Assignment-2" [click here](https://github.com/murateshimov/Introduction-to-Web-Interface-Development/tree/master/Week1-Assignment2)
+To see the code "Week 1 Assignment 2" [click here](https://github.com/murateshimov/Introduction-to-Web-Interface-Development/tree/master/Week1-Assignment2)
 
-## Week-2 Assignment-1
+## Week 2 Assignment 1
 
 Style webpage Todo 1-3 from the presentation "Getting Started With The Web - Part 3"
 
 ![Week-2 Assignment1](Week2-Assignment1/img/screenshot.png?raw=true)
 
-To see the code "Week-2 Assignment-1" [click here](https://github.com/murateshimov/Introduction-to-Web-Interface-Development/tree/master/Week2-Assignment1)
+To see the code "Week 2 Assignment 1" [click here](https://github.com/murateshimov/Introduction-to-Web-Interface-Development/tree/master/Week2-Assignment1)
 
-## Week-2 Assignment-2
+## Week 2 Assignment 2
 
 Requirements:
 
@@ -46,9 +46,9 @@ Requirements:
 
 ![Week-2 Assignment2](https://github.com/murateshimov/Introduction-to-Web-Interface-Development/blob/master/Week2-Assignment2/img/screenshot.png)
 
-To see the code "Week-2 Assignment2" [click here](https://github.com/murateshimov/Introduction-to-Web-Interface-Development/tree/master/Week2-Assignment2)
+To see the code "Week 2 Assignment 2" [click here](https://github.com/murateshimov/Introduction-to-Web-Interface-Development/tree/master/Week2-Assignment2)
 
-## Week-2 Assignment-3
+## Week 2 Assignment 3
 
 Requirements:
 
@@ -56,11 +56,11 @@ Upload to GitHub Pages and submit the link. (link must be start like https://[us
 
 ![Week-2 Assignment3](https://github.com/murateshimov/Introduction-to-Web-Interface-Development/blob/master/Week2-Assignment3/img/Screenshot%202023-09-17%20at%2015.09.13.png)
 
-To see the code "Week-2 Assignment3" [click here](https://github.com/murateshimov/Introduction-to-Web-Interface-Development/tree/master/Week2-Assignment3)
+To see the code "Week 2 Assignment 3" [click here](https://github.com/murateshimov/Introduction-to-Web-Interface-Development/tree/master/Week2-Assignment3)
 
 To see the GitHub Page [click here](https://murateshimov.github.io/about-me-page/)
 
-## Week-3 Assignment-1
+## Week 3 Assignment 1
 
 Requirements:
 
@@ -72,10 +72,10 @@ Requirements:
 
 ![Week-3 Assignment1](https://github.com/murateshimov/Introduction-to-Web-Interface-Development/blob/master/Week3-Assignment1/img/Screenshot%202023-09-19%20at%2014.33.05.png)
 
-To see the code "Week-3 Assignment1" [click here](https://github.com/murateshimov/Introduction-to-Web-Interface-Development/tree/master/Week3-Assignment1)
+To see the code "Week 3 Assignment 1" [click here](https://github.com/murateshimov/Introduction-to-Web-Interface-Development/tree/master/Week3-Assignment1)
 
 
-## Week-3 Assignment2
+## Week 3 Assignment 2
 
 Requirements: 
 
@@ -88,10 +88,10 @@ Requirements:
 
 ![Week-3 Assignment2](https://github.com/murateshimov/Introduction-to-Web-Interface-Development/blob/master/Week3-Assignment2/img/Screenshot%202023-10-06%20at%2018.36.02.png)
 
-To see the code "Week-3 Assignment2" [click here](https://github.com/murateshimov/Introduction-to-Web-Interface-Development/tree/master/Week3-Assignment2)
+To see the code "Week 3 Assignment 2" [click here](https://github.com/murateshimov/Introduction-to-Web-Interface-Development/tree/master/Week3-Assignment2)
 
 
-## Week-4 Assignment1
+## Week 4 Assignmentn 1
 
 Requirements: 
 
@@ -99,10 +99,10 @@ Requirements:
 
 ![Week-4 Assignment1](https://github.com/murateshimov/Introduction-to-Web-Interface-Development/blob/master/Week4-Assignment1/img/dog%20table.png)
 
-To see the code "Week-4 Assignment1" [click here](https://github.com/murateshimov/Introduction-to-Web-Interface-Development/tree/master/Week4-Assignment1)
+To see the code "Week 4 Assignment 1" [click here](https://github.com/murateshimov/Introduction-to-Web-Interface-Development/tree/master/Week4-Assignment1)
 
 
-## Week-4 Assignment2
+## Week 4 Assignment 2
 
 Requirements: 
 
@@ -112,10 +112,10 @@ Requirements:
 
 ![Week-4 Assignment2](https://github.com/murateshimov/Introduction-to-Web-Interface-Development/blob/master/Week4-Assignment2/img/Screenshot%202023-10-06%20at%2021.42.16.png)
 
-To see the code "Week-4 Assignment2" [click here](https://github.com/murateshimov/Introduction-to-Web-Interface-Development/tree/master/Week4-Assignment2)
+To see the code "Week 4 Assignment 2" [click here](https://github.com/murateshimov/Introduction-to-Web-Interface-Development/tree/master/Week4-Assignment2)
 
 
-## Week-4 Assignment3
+## Week 4 Assignment 3
 
 Requirements: 
 
