@@ -91,7 +91,7 @@ Requirements:
 To see the code "Week 3 Assignment 2" [click here](https://github.com/murateshimov/Introduction-to-Web-Interface-Development/tree/master/Week3-Assignment2)
 
 
-## Week 4 Assignmentn 1
+## Week 4 Assignment 1
 
 Requirements: 
 
