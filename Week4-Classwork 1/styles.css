@@ -1,0 +1,57 @@
+body {
+  background-color: #d4e6f1;
+}
+
+.main-content {
+  margin: 0 auto;
+  padding: 0 auto;
+  max-width: 800px;
+}
+
+h1 {
+  border: 2px solid blue;
+  text-align: center;
+  color: darkblue;
+}
+
+.first-picture {
+  height: 400px;
+  width: 600px;
+  display: block;
+  margin: 0 auto;
+}
+
+hr {
+  border: 2px solid blue;
+}
+
+h2 {
+  color: #76448a;
+  text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+td:hover {
+  background-color: #afb5b2;
+}
+
+td, th {
+  padding: 0.5em;
+  border: 2px solid black;
+}
+
+.text {
+	color: #62d3a6;
+  font-style: italic;
+  text-align: center;
+  font-size: 30px;
+}
+
+.img {
+  width: 300px;
+  height: 300px;
+}
+
