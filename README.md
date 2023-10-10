@@ -147,9 +147,9 @@ Requirements:
 
 * Create HTML and CSS web page 
 
-![Week-4 Classwork 1]()
+![Week-4 Classwork 1](https://github.com/murateshimov/Introduction-to-Web-Interface-Development/blob/master/Week4-Classwork%201/img/Screenshot%202023-10-10%20at%2022.08.15.png)
 
-To see the code "Week 4 Assignment 4" [click here](https://github.com/murateshimov/Introduction-to-Web-Interface-Development/tree/master/Week4-Assignment4)
+To see the code "Week 4 Assignment 4" [click here](https://github.com/murateshimov/Introduction-to-Web-Interface-Development/tree/master/Week4-Classwork1)
 
 
-## Week 4 Classwork 1
+## Week 5 Assignment 1
