@@ -41,8 +41,8 @@ To see the code "Week 2 Assignment 1" [click here](https://github.com/murateshim
 
 Requirements:
 
-1. To the alatoo web page you did before add behavior, when clicking to image, image should change. When click again image should take again back alatoo logo.
-2. Add one button to the page that on click should asks for user name with prompt function, and change the header text to “Welcome {name}”
+1. To the Alatoo web page you did before adding behavior when clicking on the image, the image should change. When clicking again image should take back Alatoo logo.
+2. Add one button to the page that on click should ask for the user name with prompt function, and change the header text to “Welcome {name}”
 
 ![Week-2 Assignment2](https://github.com/murateshimov/Introduction-to-Web-Interface-Development/blob/master/Week2-Assignment2/img/screenshot.png)
 
@@ -52,9 +52,7 @@ To see the code "Week 2 Assignment 2" [click here](https://github.com/murateshim
 
 Requirements:
 
-Upload to GitHub Pages and submit the link. (link must be start like https://[username].github.io )
-
-![Week-2 Assignment3](https://github.com/murateshimov/Introduction-to-Web-Interface-Development/blob/master/Week2-Assignment3/img/Screenshot%202023-09-17%20at%2015.09.13.png)
+Upload to GitHub Pages and submit the link. (The link must start like https://[username].github.io )
 
 To see the code "Week 2 Assignment 3" [click here](https://github.com/murateshimov/Introduction-to-Web-Interface-Development/tree/master/Week2-Assignment3)
 
@@ -65,10 +63,10 @@ To see the GitHub Page [click here](https://murateshimov.github.io/about-me-page
 Requirements:
 
 1. Create 4 web pages (index.html, faculties.html, pictures.html, contacts.html )
-2. Add an unordered list that includes the names of the pages to link to. (Nav. menu usualy just a list)
-3. Copy navigation menu across to each page.
+2. Add an unordered list that includes the names of the pages to link to. (Nav. menu usually just a list)
+3. Copy the navigation menu across to each page.
 4. On each page, remove just the link to that same page
-5. On contacts.html page make email and phone links
+5. On the contacts.html page make email and phone links
 
 ![Week-3 Assignment1](https://github.com/murateshimov/Introduction-to-Web-Interface-Development/blob/master/Week3-Assignment1/img/Screenshot%202023-09-19%20at%2014.33.05.png)
 
@@ -133,7 +131,7 @@ Requirements:
 
 * Look up all CSS value functions
 * Create an HTML document, that includes div elements for each Transform function and Math functions
-* Add to all div blocks width, height, border and background-color (optionally content)
+* Add to all div blocks width, height, border, and background-color (optionally content)
 * Apply the functions
 
 ![Week-4 Assignment4](https://github.com/murateshimov/Introduction-to-Web-Interface-Development/blob/master/Week4-Assignment4/Screenshot%202023-10-08%20at%2023.02.28.png)
