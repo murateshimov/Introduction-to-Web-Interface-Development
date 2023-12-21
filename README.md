@@ -131,7 +131,7 @@ Requirements:
 
 * Look up all CSS value functions
 * Create an HTML document, that includes div elements for each Transform function and Math functions
-* Add to all div blocks width, height, border, and background-color (optionally content)
+* Add to all div blocks width, height, border, and background color (optionally content)
 * Apply the functions
 
 ![Week-4 Assignment4](https://github.com/murateshimov/Introduction-to-Web-Interface-Development/blob/master/Week4-Assignment4/Screenshot%202023-10-08%20at%2023.02.28.png)
@@ -151,3 +151,6 @@ To see the code "Week 4 Assignment 4" [click here](https://github.com/murateshim
 
 
 ## Week 5 Assignment 1
+
+<img width="1470" alt="Screenshot 2023-12-21 at 19 09 23" src="https://github.com/murateshimov/Introduction-to-Web-Interface-Development/assets/57397667/b288ba5b-3a27-4fc4-88ce-afce37961b41">
+
